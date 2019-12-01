@@ -1,0 +1,5 @@
+.chart-plot-background{
+    -fx-background-color: rgba(181, 17, 19, 0.4);
+    -fx-foreground-color: white;
+    -fx-stroke: white;
+}
